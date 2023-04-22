@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border:5px solid black;
+    margin:15px;
+    padding: 20px;
+    text-align: center;
+}
+
+#top{
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-decoration-color: orangered;
+}
+
+.finalist{
+    text-align: left;
+}
